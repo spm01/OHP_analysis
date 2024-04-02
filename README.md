@@ -1,5 +1,6 @@
 # OHP_analysis
 A brief analysis of the Oregon Health Plan's natural experiment.
+PDF file has full code and formatting!
 
 This project conducts an analysis of data from an experiment related to the Oregon Health Plan (OHP) that occurred in 2009. We start by assigning the data into treatment and control groups based on a binary treatment indicator variable.
 
